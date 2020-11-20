@@ -6,7 +6,7 @@ namespace SocketClient
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Socket Client server");
         }
     }
 }
